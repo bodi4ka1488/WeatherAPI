@@ -71,7 +71,7 @@ select {
 .container {
    width: 700px;
    height: 100%;
-   margin: 1px 35%;
+   margin: 0 auto;
    border: 3px  solid rgb(64, 58, 58);
    box-shadow: rgba(0, 0, 0, 0.24) 2px 6px 16px;
    border-radius: 2%;
@@ -169,7 +169,7 @@ p{
   'GRAD' 0,
   'opsz' 48
 }
-.material-symbols-outlined:hover{
+.material-symbols-outlined:active{
   transform: rotate(0.5turn);
 
 }
